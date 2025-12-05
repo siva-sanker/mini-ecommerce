@@ -1,0 +1,14 @@
+.productPage {
+  padding: 2rem 0;
+  min-height: 70vh;
+}
+
+.error {
+  text-align: center;
+  padding: 4rem 2rem;
+  color: var(--danger-color);
+}
+
+.error h2 {
+  margin-bottom: 1rem;
+}

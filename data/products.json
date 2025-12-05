@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "price": 89.99,
+    "description": "Premium noise-cancelling wireless headphones with 30-hour battery life and superior sound quality. Perfect for music lovers and travelers.",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400&q=80",
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Smart Fitness Watch",
+    "price": 199.99,
+    "description": "Advanced smartwatch with heart rate monitoring, GPS tracking, sleep analysis, and smartphone notifications. Water-resistant up to 50 meters.",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400&q=80",
+    "category": "Electronics"
+  },
+  {
+    "id": 3,
+    "name": "Organic Cotton T-Shirt",
+    "price": 24.99,
+    "description": "Comfortable and sustainable t-shirt made from 100% organic cotton. Available in multiple colors and sizes for everyday wear.",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400&q=80",
+    "category": "Fashion"
+  },
+  {
+    "id": 4,
+    "name": "Ceramic Coffee Mug Set",
+    "price": 34.99,
+    "description": "Set of 4 beautifully crafted ceramic mugs with ergonomic handles. Microwave and dishwasher safe for daily use.",
+    "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcf93a?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400&q=80",
+    "category": "Home"
+  },
+  {
+    "id": 5,
+    "name": "Professional Chef's Knife",
+    "price": 79.99,
+    "description": "High-quality 8-inch chef's knife made from Japanese stainless steel. Perfect balance and sharpness for all your cooking needs.",
+    "image": "https://images.unsplash.com/photo-1590955554790-5a1ece5c2c43?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400&q=80",
+    "category": "Kitchen"
+  },
+  {
+    "id": 6,
+    "name": "Yoga Mat Premium",
+    "price": 49.99,
+    "description": "Non-slip, eco-friendly yoga mat with alignment markers. Provides excellent cushioning and support for all types of yoga practice.",
+    "image": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400&q=80",
+    "category": "Fitness"
+  },
+  {
+    "id": 7,
+    "name": "Desk Lamp with Wireless Charger",
+    "price": 64.99,
+    "description": "Modern LED desk lamp with adjustable brightness and built-in wireless charging pad. USB ports for additional device charging.",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400&q=80",
+    "category": "Home"
+  },
+  {
+    "id": 8,
+    "name": "Backpack with USB Port",
+    "price": 54.99,
+    "description": "Durable waterproof backpack with dedicated laptop compartment, USB charging port, and multiple organizational pockets.",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400&q=80",
+    "category": "Accessories"
+  }
+]
